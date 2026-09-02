@@ -2,6 +2,7 @@
   "_base": "https://raw.githubusercontent.com/ribeiroLevi/codigosEbatidas/main/",
   "kick": ["kick1.wav", "kick2.wav", "kick3.wav", "snare1.wav"],
   "snare": ["snare1.wav", "snare2.wav", "snare3.wav"],
+  "sample": ["sample1.wav","sample2.wav","sample3.wav","sample4.wav","sample5.wav"]
   "hh": ["hh1.wav", "hh2.wav", "hh3.wav"],
   "oh": ["oh1.wav", "oh2.wav", "oh3.wav"],
   "perc": ["perc1.wav", "perc2.wav", "perc3.wav"],
